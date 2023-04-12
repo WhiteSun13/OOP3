@@ -10,7 +10,6 @@
         <Button Content="Shutdown" HorizontalAlignment="Left" Margin="10,0,0,10" VerticalAlignment="Bottom" Height="30" Width="84" Background="#FFFFE0E0" Click="Button_Click" RenderTransformOrigin="-0.482,2.106"/>
         <Grid x:Name="Small" RenderTransformOrigin="0.492,0.51" Margin="184,24,33,88">
             <ScrollViewer RenderTransformOrigin="0.508,0.508" Margin="-170,-18,-24.4,-44">
-
                 <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Height="3069" Width="1000" Background="Black" Foreground="Lime"/>
             </ScrollViewer>
         </Grid>
